@@ -1,5 +1,5 @@
 # Common
-spring.application.name: lmfr-demo-devfest
+spring.application.name: lmfr-demo-devfest-rating-api
 
 # Netty Server
 server.port: 9090
